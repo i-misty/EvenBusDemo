@@ -16,7 +16,9 @@ import org.greenrobot.eventbus.Subscribe;
 import org.greenrobot.eventbus.ThreadMode;
 
 
-
+/**
+ * evenbus 基础实践
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
