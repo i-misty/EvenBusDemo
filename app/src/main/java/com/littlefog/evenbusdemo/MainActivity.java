@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         super.onStart();
     }
 
-    //测试提交
+    //测试.提交
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
